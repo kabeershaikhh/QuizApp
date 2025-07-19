@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QuizApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.QuizApp" parent="Base.Theme.QuizApp" />
+
+
+        <!-- Style to disable tint on buttons -->
+        <style name="NoButtonTint" parent="ThemeOverlay.Material3">
+            <item name="materialButtonStyle">@style/PlainButtonStyle</item>
+        </style>
+
+        <style name="PlainButtonStyle" parent="Widget.Material3.Button">
+            <item name="backgroundTint">@null</item>
+            <item name="android:backgroundTint">@null</item>
+            <item name="android:background">@null</item>
+        </style>
+
+
+</resources>
