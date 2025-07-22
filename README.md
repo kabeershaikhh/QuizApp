@@ -9,7 +9,7 @@ QuizApp is a simple and elegant Android application designed to present a 5-ques
 
 ### 🧠 Main Screen
 <p align="center">
-  <img src="main_screen.png" width="300"/>
+  <img src="main_screen.jpg" width="300"/>
 </p>
 
 
