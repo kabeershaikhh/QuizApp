@@ -8,15 +8,15 @@ QuizApp is a simple and elegant Android application designed to present a 5-ques
 
 
 ### 🧠 Main Screen
-![Main Screen](images/main_screen.png)
+![Main Screen](images/main_screen.jpg)
 
 
 ### ✅ Quiz in Progress
-![Quiz Screen](images/quiz_screen.png)
+![Quiz Screen](images/quiz_screen.jpg)
 
 
 ### 🏁 Result Screen
-![Result Screen](images/result_screen.png)
+![Result Screen](images/result_screen.jpg)
 
 
 ---
