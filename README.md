@@ -1,6 +1,6 @@
 # QuizApp 📱
 
-QuizApp is a simple and elegant Android application designed to present a 5-question multiple-choice quiz with score tracking and visual progress representation. Built using **Java** and **Android Studio**, the app leverages **ConstraintLayout**, **custom UI**, and modern **activity navigation techniques**.
+QuizApp is a simple and elegant Android application designed to present a 5-question multiple-choice quiz with score tracking and visual progress representation. Built using **Kotlin** and **Android Studio**, the app leverages **ConstraintLayout**, **custom UI**, and modern **activity navigation techniques**.
 
 ---
 
