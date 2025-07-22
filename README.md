@@ -12,7 +12,6 @@ QuizApp is a simple and elegant Android application designed to present a 5-ques
   <img src="main_screen.jpg" width="200"/>
 </p>
 
-
 ### ✅ Quiz in Progress
 <p align="center">
   <img src="quiz_screen.jpg" width="200"/>
@@ -41,7 +40,7 @@ QuizApp is a simple and elegant Android application designed to present a 5-ques
 
 ## 🛠️ Tech Stack
 
-- Java (Android)
+- Kotlin (Android)
 - Android SDK
 - ConstraintLayout
 - Custom drawables for progress bar
