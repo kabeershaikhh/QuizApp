@@ -14,11 +14,14 @@ QuizApp is a simple and elegant Android application designed to present a 5-ques
 
 
 ### ✅ Quiz in Progress
-![Quiz Screen](quiz_screen.jpg)
-
+<p align="center">
+  <img src="quiz_screen.jpg" width="200"/>
+</p>
 
 ### 🏁 Result Screen
-![Result Screen](result_screen.jpg)
+<p align="center">
+  <img src="result_screen.jpg" width="200"/>
+</p>
 
 
 ---
